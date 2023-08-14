@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "dev": "tsx watch src/main.ts"
+    "dev": "tsx watch src/main.ts",
+    "migrate": "drizzle-kit generate:pg"
   },
   "name": "jukwaa",
   "version": "1.0.0",
