@@ -8,6 +8,20 @@
       "when": 1692045815957,
       "tag": "0000_cold_jack_flag",
       "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1692076801873,
+      "tag": "0001_lively_red_ghost",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1692077275935,
+      "tag": "0002_milky_rafael_vega",
+      "breakpoints": false
     }
   ]
 }
